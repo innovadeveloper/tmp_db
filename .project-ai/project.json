@@ -1,0 +1,14 @@
+{
+  "root": "/Users/kenny/PropertyProjects/DBProjects",
+  "schema_version": 1,
+  "generated_at": "2026-10-15T17:11:54+00:00",
+  "stacks": [],
+  "requirements": {},
+  "modules": [],
+  "entry_points": [],
+  "endpoints": [],
+  "services": [],
+  "commands": {},
+  "facts": {},
+  "warnings": []
+}
